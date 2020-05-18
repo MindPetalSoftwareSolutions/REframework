@@ -1,0 +1,44 @@
+{
+  "name": "VerticalApps_PMO-Bot",
+  "description": "This bot is used for the VerticalApps innovation hub to demonstrate how RPA can help a PMO office. It also leverages the \"VerticalApps RPA In a Box\" platform.",
+  "main": "Main.xaml",
+  "dependencies": {
+    "BalaReva.EasyPowerPoint.Activities": "[4.0.2]",
+    "BalaReva.PowerPoint.Activities": "[3.0.0]",
+    "Edp.PowerPoint.Activities": "[2.0.0]",
+    "PowerPoint.Activities": "[1.0.3.13]",
+    "UiPath.Excel.Activities": "[2.7.2]",
+    "UiPath.GSuite.Activities": "[1.4.0]",
+    "UiPath.Mail.Activities": "[1.7.2]",
+    "UiPath.System.Activities": "[19.10.1]",
+    "UiPath.UIAutomation.Activities": "[19.11.1]",
+    "UiPathTeam.EditPowerPointSlide.Activities": "[1.0.6]",
+    "UiPathTeam.Gmail.Activities": "[1.0.6822.33137]",
+    "UiPathTeam.Powerpoint.Activities": "[1.0.4]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.10.4.0",
+  "projectVersion": "1.1.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfos": []
+  },
+  "expressionLanguage": "VisualBasic"
+}
