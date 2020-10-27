@@ -1,0 +1,11 @@
+[0814/175834.656:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0817/133537.743:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0821/131042.857:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0901/102455.418:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0910/223453.972:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[0917/125354.568:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[0929/095934.946:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[0929/105721.005:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[1020/112111.097:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/114050.728:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[1020/115218.277:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
